@@ -1,3 +1,6 @@
+#codigo feito e testado no simulador venus
+#disponivel em http://www.kvakil.me/venus/
+
 addi a0, zero, 5 # a = 5
 addi a1, zero, 64 # b = 64
 addi a2, zero, 25 # c = 25
